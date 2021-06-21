@@ -41,13 +41,13 @@ print (YY +"1) Hackear WhatsApp\n2) Obtener chats de WhatsApp (No disponible)\n3
 rsp = int(input("Elige una opcion: "))
 if rsp == 1:
         print (GG +"Abriendo componentes...")
-        os.system("sleep 10")
+        os.system("sleep 2")
         rsp1 = input(BB +"Pon el numero de tu victima: ")
         print (YY +"Obteniendo acceso alternativo de " + rsp1)
         sutil(YY +"Esto podria demorar unos minutos...")
-        os.system("sleep 30")
+        os.system("sleep 4")
         sutil(GG +"Ya falta poco...")
-        os.system("sleep 40")
+        os.system("sleep 4")
         sutil(RR +"Ocurrió un error inesperado! Vuelve a intentarlo mas tarde o busca ayuda")
 
 elif rsp == 2:
