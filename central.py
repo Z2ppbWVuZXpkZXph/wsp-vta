@@ -34,7 +34,7 @@ os.system("clear")
 
 sutil(RR +"Bienvenido a la herramienta de Valletta!\nPara comenzar vamos a visualizar las compatibilidades de tu dispositivo")
 sutil(YY +"Esto podria demorar unos minutos...")
-os.system("sleep 60")
+os.system("sleep 5")
 print (GG +"Bienvenido a WSP-VTA")
 print (BB +"Existen las siguientes opciones")
 print (YY +"1) Hackear WhatsApp\n2) Obtener chats de WhatsApp (No disponible)\n3) Salir")
